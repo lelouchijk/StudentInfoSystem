@@ -1,0 +1,83 @@
+{
+  "batches": [
+    {
+      "batchNumber": "1",
+      "studentList": [
+        "AB30001",
+        "AB30002",
+        "AB30003",
+        "AB30004",
+        "AB30005",
+        "AB30006",
+        "AB30007",
+        "AB30008",
+        "AB30009"
+      ],
+      "year": "2",
+      "semester": "2"
+    },
+    {
+      "batchNumber": "2",
+      "studentList": [
+        "RD40001",
+        "RD40002",
+        "RD40003",
+        "RD40004",
+        "RD40005",
+        "RD40006",
+        "RD40007",
+        "RD40008",
+        "RD40009",
+        "RD40010",
+        "RD40011",
+        "RD40012",
+        "RD40013"
+      ],
+      "year": "2",
+      "semester": "2"
+    },
+    {
+      "batchNumber": "3",
+      "studentList": [
+        "BJ50001",
+        "BJ50002",
+        "BJ50003",
+        "BJ50004",
+        "BJ50005",
+        "BJ50006",
+        "BJ50007"
+      ],
+      "year": "2",
+      "semester": "2"
+    },
+    {
+      "batchNumber": "4",
+      "studentList": [
+        "AR80001",
+        "AR80002",
+        "AR80003",
+        "AR80004",
+        "AR80005"
+      ],
+      "year": "2",
+      "semester": "1"
+    },
+    {
+      "batchNumber": "5",
+      "studentList": [
+        "BC90001",
+        "BC90002",
+        "BC90003",
+        "BC90004",
+        "BC90005",
+        "BC90006",
+        "BC90007",
+        "BC90008",
+        "BC90009",
+        "BC90010"
+      ],
+      "year": "1",
+      "semester": "2"
+    }
+  ]
+}

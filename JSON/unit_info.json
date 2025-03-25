@@ -1,0 +1,19 @@
+{
+  "units": [
+    { "unitNumber": "1", "unitName": "Programming" },
+    { "unitNumber": "2", "unitName": "Networking" },
+    { "unitNumber": "3", "unitName": "Professional Practice" },
+    { "unitNumber": "4", "unitName": "Database Design & Development" },
+    { "unitNumber": "5", "unitName": "Security" },
+    { "unitNumber": "6", "unitName": "Planning a Computing Project" },
+    { "unitNumber": "7", "unitName": "Software Development Lifecycles" },
+    { "unitNumber": "14", "unitName": "Maths for Computing" },
+    { "unitNumber": "16", "unitName": "Computing Research Project (Pearson-Set)" },
+    { "unitNumber": "17", "unitName": "Business Process Support" },
+    { "unitNumber": "18", "unitName": "Discrete Maths" },
+    { "unitNumber": "19", "unitName": "Datastructure & Algorithms" },
+    { "unitNumber": "20", "unitName": "Applied Programming and Design Principles" },
+    { "unitNumber": "22", "unitName": "Application Development" },
+    { "unitNumber": "25", "unitName": "Machine Learning" }
+  ]
+}
